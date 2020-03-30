@@ -36,7 +36,6 @@
 <br>
 
 ## 💬 Contato
-------------------
 Obrigado por chegar até aqui! 
 
 [*Entre em contato comigo*](https://www.linkedin.com/in/cicerocruz/)

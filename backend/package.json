@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cicerocruz/Coleccionista/issues"
   },
-  "homepage": "https://github.com/cicerocruz/Coleccionista#readme"
+  "homepage": "https://github.com/cicerocruz/Coleccionista#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -1,0 +1,20 @@
+{
+  "name": "Coleccionista",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r     <img alt=\"Coleccionista\" title=\"#Coleccionista\" src=\".github/logo.jpg\" width=\"250px\" />\r </h1>\r <h4 align=\"center\"> \r \tColeccionista - App para Colecionadores (Moedas, Selos e Notas)\r </h4>\r <p align=\"center\">\r   <img alt=\"GitHub language count\" src=\"https://img.shields.io/github/languages/count/cicerocruz/Coleccionista?color=%23FC943D\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicerocruz/Coleccionista.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cicerocruz/Coleccionista/issues"
+  },
+  "homepage": "https://github.com/cicerocruz/Coleccionista#readme"
+}

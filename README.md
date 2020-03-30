@@ -2,7 +2,7 @@
     <img alt="Coleccionista" title="#Coleccionista" src=".github/logo.jpg" width="250px" />
 </h1>
 <h4 align="center"> 
-	Coleccionista - App para Colecionadores (Moedas, Selos e Notas)
+:construction: [Em Construção] Coleccionista - App para Colecionadores (Moedas, Selos e Notas) [Em Construção] :construction: 
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cicerocruz/Coleccionista?color=%23FC943D">
